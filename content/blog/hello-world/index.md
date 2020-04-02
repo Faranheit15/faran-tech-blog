@@ -1,7 +1,7 @@
 ---
 title: Hello Blog
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+date: "2019-07-30T22:12:03.284Z"
+description: "About the author"
 ---
 
 <b>About the author</b>
