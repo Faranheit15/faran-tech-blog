@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `FДЯДИHΞIΓ ΓΞCH ΓЯICҜS`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Faran Mohammad`,
+      summary: `, a developer and tech-enthusiast who lives and works in India building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A hobby blog for Faran Mohammad.`,
+    siteUrl: `https://faranheit.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `faran.codes`,
     },
   },
   plugins: [
