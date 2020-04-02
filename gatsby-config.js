@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `FДЯДИHΞIΓ ΓΞCH ΓЯICҜS`,
+    title: `FAЯAИHΞIΓ ΓΞCH ΓЯICҜS`,
     author: {
       name: `Faran Mohammad`,
       summary: `, a developer and tech-enthusiast who lives and works in India building useful things.`,
