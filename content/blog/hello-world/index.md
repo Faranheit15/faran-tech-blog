@@ -6,4 +6,4 @@ description: "About the author"
 
 <b>About the author</b>
 
-Just another guy you'll find who likes Biriyani, Pizza, Memes, Python, Java, Cats, Comicverses, EDMs, GoT, Naruto, ᕼIᗰYᗰ and LIИЦЖ. 🌚
+Just another introvert that you'll come across who loves Biriyani, Pizza, Memes, Python, Java, Cats, Comicverses, EDMs, GoT, Naruto, ᕼIᗰYᗰ and LIИЦЖ. 🌚

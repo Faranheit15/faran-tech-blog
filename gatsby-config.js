@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `FAЯAИHΞIΓ ΓΞCH ΓЯICҜS`,
     author: {
-      name: `Faran Mohammad`,
-      summary: `, a self-taught developer and tech-enthusiast who lives and works in India building useful things.`,
+      name: `Faran Mohammad,`,
+      summary: ` a self-taught developer and tech-enthusiast who lives and works in India building useful things.`,
     },
-    description: `A hobby blog for Faran Mohammad.`,
+    description: `A programmer's blog for keeping you all updated with the many technology life hacks I ever came across.`,
     siteUrl: `https://faranheit.netlify.com/`,
     social: {
       twitter: `faran.codes`,
