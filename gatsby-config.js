@@ -3,7 +3,7 @@ module.exports = {
     title: `FAЯAИHΞIΓ ΓΞCH ΓЯICҜS`,
     author: {
       name: `Faran Mohammad`,
-      summary: `, a developer and tech-enthusiast who lives and works in India building useful things.`,
+      summary: `, a self-taught developer and tech-enthusiast who lives and works in India building useful things.`,
     },
     description: `A hobby blog for Faran Mohammad.`,
     siteUrl: `https://faranheit.netlify.com/`,
