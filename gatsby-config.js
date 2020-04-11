@@ -8,7 +8,7 @@ module.exports = {
     description: `A programmer's blog for keeping you all updated with the many technology life hacks I ever came across.`,
     siteUrl: `https://faranheit.netlify.com/`,
     social: {
-      twitter: `faran.codes`,
+      instagram: `faran.codes`,
     },
   },
   plugins: [
